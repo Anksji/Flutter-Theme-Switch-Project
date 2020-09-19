@@ -89,7 +89,7 @@ class _HomePageState extends State<HomePage> {
                     SizedBox(height: 20,),
                     Text('User Name',style: _textTheme.headline5?.copyWith(color: isDark?COLOR_CONST.white:COLOR_CONST.gray800),),
                     const SizedBox(height: 10,),
-                    Text('Put some dummy text as user bio.',style: _textTheme.subtitle1?.copyWith(color: isDark?COLOR_CONST.gray200:COLOR_CONST.gray600),),
+                    Text('Put some dummy text as user bio.',style: _textTheme.subtitle1?.copyWith(color: isDark?COLOR_CONST.white:COLOR_CONST.gray600),),
                   ],
                 ),),
             ),
