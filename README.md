@@ -11,6 +11,9 @@ Switch between dark and light theme easily.
 ![theme.png](https://i.postimg.cc/qB9DvQ7b/theme.png)
 
 
+##
+#
+
 MIT License
 
 Copyright (c) 2023 AD Raj
